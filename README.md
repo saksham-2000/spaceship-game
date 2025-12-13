@@ -1,7 +1,11 @@
+![My Game Screenshot](screenshot.png)
+
 TODO:
 
-- add firelaser
-- meteors should appead periodically
-- fix the UI
+- meteors should be rotating
+- add points graphic
 - add audio
 - refactor code
+- - more beatiful UI
+ 
+  
