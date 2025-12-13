@@ -1,4 +1,4 @@
-![My Game Screenshot](screenshot.png)
+![My Game Screenshot](game-ss.png)
 
 TODO:
 
